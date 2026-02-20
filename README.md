@@ -1,50 +1,67 @@
-<h1 align="center">Hi 👋, I'm Arun Johny</h1>
-
-<h3 align="center">🚀 AIML & DL Enthusiast | Full Stack Developer | Android Developer</h3>
+<!-- ======================= HEADER ======================= -->
+<h1 align="center">Hey 👋 I'm Arun Johny</h1>
+<h3 align="center">🚀 AI & ML Enthusiast | Full Stack Developer | Android Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=B.Tech+CSE+(AI+%26+ML)+Student;Machine+Learning+Explorer;Full+Stack+Developer;Android+App+Builder;Always+Learning+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=900&color=00F7FF&center=true&vCenter=true&width=700&lines=B.Tech+CSE+(AI+%26+ML)+Student;Machine+Learning+Explorer;Full+Stack+Developer;Android+App+Builder;Always+Learning+%F0%9F%94%A5" />
+</p>
+
+<p align="center">
+  <a href="mailto:arunjohny2412@gmail.com"><img src="https://img.shields.io/badge/Email-arunjohny2412%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/arunjohny2412"><img src="https://img.shields.io/badge/LinkedIn-Arun%20Johny-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Arun-Johny&label=Profile%20Views&color=00F7FF&style=for-the-badge" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
-🎓 B.Tech CSE (AI & ML) @ CHRIST (Deemed to be University)  
-📍 Bengaluru, India  
-💡 Passionate about building intelligent systems and scalable applications  
-📫 Reach me: **arunjohny2412@gmail.com**  
-🔗 LinkedIn: www.linkedin.com/in/arunjohny2412  
+## 🎮 Developer Level (Game Style)
+**Level:** `Junior Developer` ➜ Grinding XP daily ⚡  
+**XP:** `Projects + Consistency + Learning`  
+**Main Skills Unlocked:** Full Stack • Android • ML  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Arun-Johny&theme=tokyonight&no-frame=true&margin-w=8&row=1&column=7" />
+</p>
 
 ---
 
-## 🛠 Tech Stack
+## 🧙‍♂️ About Me
+- 🎓 B.Tech CSE (AI & ML) @ CHRIST (Deemed to be University)
+- 📍 Bengaluru, India  
+- 💡 I build **AI models**, **web apps**, and **Android applications**
+- 🧠 Interested in **Deep Learning, Feature Engineering, and Real-World AI**
+- 📫 Email: **arunjohny2412@gmail.com**
+
+---
+
+## 🧰 Tech Stack (Badges Mode)
 
 ### 💻 Programming
 <p>
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
-### 🌐 Web Development
+### 🌐 Web
 <p>
-<img src="https://img.shields.io/badge/HTML- E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
 </p>
 
-### 📱 Android
+### 📱 Android + DB
 <p>
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-</p>
-
-### 🗄 Databases & Tools
-<p>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
@@ -53,60 +70,58 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🕹️ Featured Missions (Projects)
 
 ### 🌍 Landslide Risk Detection (NDVI + ML)
-- Satellite image classification using NDVI feature engineering  
-- Compared Random Forest, SVM, Gradient Boosting & MLP  
-- Selected best model using Accuracy + ROC-AUC  
+✅ NDVI feature engineering + satellite image classification  
+✅ Models: Random Forest, SVM, Gradient Boosting, MLP  
+✅ Metrics: Accuracy + ROC-AUC + Visualization  
 
 ### 💊 Medical Reminder Android App
-- Built with Kotlin, Java & Firebase  
-- Alarm Manager + Notification Manager integration  
-- Tracks recurring schedules & missed doses  
+✅ Firebase schedule storage + secure handling  
+✅ Alarm Manager + Notification Manager reminders  
+✅ Missed dose tracking + recurring schedules  
 
 ### 🏋 Smart Gym Management System
-- Django full-stack application  
-- Booking system, shopping cart, payment flow  
-- Responsive Bootstrap UI  
+✅ Django full-stack system  
+✅ Registration + booking + cart + payment flow  
+✅ Responsive Bootstrap UI  
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 Stats (Looks Like Game Dashboard)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Arun-Johny&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arun-Johny&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arun-Johny&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arun-Johny&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://streak-stats.demolab.com/?user=Arun-Johny&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🔥 GitHub Streak
-
+## 🐍 Contribution Snake Animation (Very Fancy)
+> This shows your contributions moving like a snake 😄  
+<!-- After you set it up, the gif will show here -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Arun-Johny&theme=tokyonight"/>
+  <img src="https://raw.githubusercontent.com/Arun-Johny/Arun-Johny/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
 ## 🏆 Certifications
-✔ OS Fundamentals – Scaler  
-✔ Networking – CISCO / Coursera  
-✔ Build Your Own Chatbot – IBM  
-✔ Machine Learning – SkillUp  
-✔ Leadership – NPTEL (IIT Madras)
+- OS Fundamentals – Scaler  
+- Networking – CISCO / Coursera / Infosys  
+- Build Your Own Chatbot – IBM  
+- Machine Learning – SkillUp  
+- Leadership and Team Effectiveness – NPTEL (IIT Madras)
 
 ---
 
-## 🤝 Positions of Responsibility
-NSS (National Service Scheme) – Volunteer  
+## 🤝 Volunteering
+✅ NSS (National Service Scheme) – Volunteer
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Arun-Johny&label=Profile%20Views&color=blue&style=for-the-badge" />
-</p>
-
----
-
-<h3 align="center">⭐ Always Building | Always Learning | Always Improving</h3>
+<h3 align="center">⚡ "Consistency is my cheat code." ⚡</h3>
