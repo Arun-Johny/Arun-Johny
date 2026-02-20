@@ -99,16 +99,7 @@
   <img src="https://streak-stats.demolab.com/?user=Arun-Johny&theme=tokyonight&hide_border=true" />
 </p>
 
----
 
-## 🐍 Contribution Snake Animation (Very Fancy)
-> This shows your contributions moving like a snake 😄  
-<!-- After you set it up, the gif will show here -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Arun-Johny/Arun-Johny/output/github-contribution-grid-snake.svg" />
-</p>
-
----
 
 ## 🏆 Certifications
 - OS Fundamentals – Scaler  
