@@ -110,18 +110,8 @@
 
 ---
 
-## 🏆 Certifications
-- OS Fundamentals – Scaler  
-- Networking – CISCO / Coursera / Infosys  
-- Build Your Own Chatbot – IBM  
-- Machine Learning – SkillUp  
-- Leadership and Team Effectiveness – NPTEL (IIT Madras)
 
----
 
-## 🤝 Volunteering
-✅ NSS (National Service Scheme) – Volunteer
 
----
 
 <h3 align="center">⚡ "Consistency is my cheat code." ⚡</h3>
