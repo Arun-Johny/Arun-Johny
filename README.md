@@ -1,8 +1,10 @@
 <div align="center">
 
-# Hi 👋, I'm Arun Johny
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F172A,50:2563EB,100:06B6D4&text=Arun%20Johny&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20|%20Full%20Stack%20Developer%20|%20Building%20Intelligent%20Systems&descAlignY=60"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=AI+%26+ML+Engineer;Full+Stack+Developer;FastAPI+%7C+Django+Developer;Android+Developer;Building+Real+World+Solutions" />
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Artificial+Intelligence+Enthusiast;Full+Stack+Developer;FastAPI+%7C+Django+Developer;Android+Application+Developer;Always+Learning+Something+New"/>
 
 </div>
 
@@ -10,7 +12,7 @@
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjF4cnY2ZmdmNm9xM3N6MmlmbnY1N3R5M3B5MjVtbGk3MzJnY3R1dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="600"/>
+<img width="700" src="https://user-images.githubusercontent.com/74038190/212744275-c56a72c2-7f3a-4f0a-b3f2-1d9f8df84c5e.gif">
 
 </div>
 
@@ -20,141 +22,150 @@
 
 ```yaml
 name: Arun Johny
-education: B.Tech CSE (AI & ML)
-university: CHRIST University
-location: Bengaluru, India
+
+education:
+  degree: B.Tech Computer Science (AI & ML)
+  university: CHRIST (Deemed to be University)
+
+role:
+  - Full Stack Developer
+  - AI Enthusiast
+  - Android Developer
+
+currently_learning:
+  - Generative AI
+  - Large Language Models
+  - Advanced Backend Systems
+  - Cloud Computing
 
 interests:
   - Artificial Intelligence
   - Machine Learning
+  - Deep Learning
   - Full Stack Development
-  - Android Development
-  - Cloud Computing
+  - Mobile Applications
 
-currently_learning:
-  - Generative AI
-  - LLM Applications
-  - Advanced Django
-  - System Design
+experience:
+  company: Proddy Tech Pvt Ltd
+  position: Full Stack Developer Intern
 ```
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
+
 <a href="https://linkedin.com/in/arunjohny2412">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:arunjohny2412@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Arun-Johny">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
 </p>
 
 ---
 
-# 🚀 Tech Stack
+## ⚡ Tech Stack
 
-### Languages
+### Programming Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,kotlin,c,js" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,kotlin,c,javascript"/>
 </p>
 
 ### Frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react"/>
 </p>
 
 ### Backend
 
-<p>
-<img src="https://skillicons.dev/icons?i=django,fastapi,nodejs" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=django,fastapi,nodejs"/>
 </p>
 
 ### Database & Cloud
 
-<p>
-<img src="https://skillicons.dev/icons?i=firebase,sqlite,aws,mongodb" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=firebase,mongodb,sqlite,aws"/>
+</p>
+
+### Backend Services
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Convex-7C3AED?style=for-the-badge&logoColor=white"/>
+
 </p>
 
 ### Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma"/>
 </p>
 
 ---
 
-# 🏆 Featured Projects
+<div align="center">
 
-### 🎤 InterviewIQ
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212750337-0d2fd0f5-f2d6-4b89-b0bb-df7e3b6b9e7f.gif"/>
 
-AI-powered interview preparation platform featuring:
-
-✅ Resume Parsing
-
-✅ Speech Analytics
-
-✅ AI Question Generation
-
-✅ Performance Dashboard
-
-**Tech Stack**
-
-FastAPI • Python • SpeechRecognition • Web Audio API
+</div>
 
 ---
 
-### 🏋️ Gym Management System
+# 🚀 Featured Projects
 
-Full-stack Gym & E-Commerce Platform
+### 🎤 InterviewIQ — AI Interview Coach
 
-✅ Membership Management
+- Resume Parsing using PyPDF
+- Speech-to-Text Analysis
+- AI Interview Question Generation
+- Confidence Scoring
+- Performance Analytics Dashboard
 
-✅ Trainer Booking
+**Tech Stack:** FastAPI • Python • Web Audio API • SpeechRecognition API
 
-✅ Product Store
+---
 
-✅ Order Tracking
+### 🏋️ Smart Gym Registration & Management System
 
-**Tech Stack**
+- Membership Management
+- Trainer Booking
+- E-Commerce Store
+- Order Tracking
+- Role-Based Dashboards
 
-Django • SQLite • Bootstrap
+**Tech Stack:** Django • Bootstrap • SQLite
 
 ---
 
 ### 💊 Medical Reminder Application
 
-Android healthcare solution
+- Medication Tracking
+- Firebase Authentication
+- Push Notifications
+- Healthcare Record Management
 
-✅ Medication Tracking
-
-✅ FCM Notifications
-
-✅ Firebase Authentication
-
-✅ Role-Based Access
-
-**Tech Stack**
-
-Kotlin • Java • Firebase
+**Tech Stack:** Kotlin • Java • Firebase
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arun-Johny&show_icons=true&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Arun-Johny&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arun-Johny&layout=compact&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arun-Johny&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -164,67 +175,23 @@ Kotlin • Java • Firebase
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Arun-Johny&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=Arun-Johny&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🏆 GitHub Trophies
+# 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Arun-Johny&theme=tokyonight&row=2&column=4"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Arun-Johny&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
 ---
 
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Arun-Johny&theme=tokyo-night"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-> Create `.github/workflows/snake.yml`
-
-After enabling GitHub Actions, add:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: Arun-Johny
-          outputs: dist/github-contribution-grid-snake.svg
-```
-
-Then display:
-
-```html
-<p align="center">
-<img src="https://raw.githubusercontent.com/Arun-Johny/Arun-Johny/output/github-contribution-grid-snake.svg">
-</p>
-```
-
----
-
-# 💻 Coding Time
+# 📋 Profile Summary
 
 <div align="center">
 
@@ -234,11 +201,51 @@ Then display:
 
 ---
 
-# ☕ Visitor Count
+# 🤖 AI & Machine Learning
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Arun-Johny&label=Visitors&color=blueviolet&style=for-the-badge"/>
+<img width="500" src="https://user-images.githubusercontent.com/74038190/216655810-cf4d7bed-52aa-4740-8c67-1832472051ec.gif">
+
+</div>
+
+### Areas of Interest
+
+- Machine Learning
+- Deep Learning
+- Natural Language Processing
+- Generative AI
+- Large Language Models
+- Intelligent Systems
+
+---
+
+# 🏅 Certifications
+
+- AWS Academy Cloud Foundations
+- IBM Build Your Own Chatbot
+- Machine Learning – SkillUp
+- Cisco Networking
+- Coursera Networking
+- NPTEL Leadership & Team Effectiveness
+
+---
+
+# 🐍 Contribution Snake
+
+```html
+<p align="center">
+<img src="https://raw.githubusercontent.com/Arun-Johny/Arun-Johny/output/github-contribution-grid-snake-dark.svg">
+</p>
+```
+
+---
+
+# 💡 Developer Philosophy
+
+<div align="center">
+
+### "Transforming Ideas Into Intelligent Solutions Through Code"
 
 </div>
 
@@ -246,6 +253,10 @@ Then display:
 
 <div align="center">
 
-### 🚀 Building AI Solutions That Make An Impact
+<img src="https://komarev.com/ghpvc/?username=Arun-Johny&style=for-the-badge&color=blue"/>
+
+<br><br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:06B6D4,50:2563EB,100:0F172A"/>
 
 </div>
