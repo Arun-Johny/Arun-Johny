@@ -1,8 +1,12 @@
+# <div align="center">🚀 Arun Johny</div>
+
 <div align="center">
 
 <img width="100%" src="https://raw.githubusercontent.com/Arun-Johny/Arun-Johny/main/assets/banner.png"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=AI+Engineer;Full+Stack+Developer;FastAPI+%7C+Django+Developer;Android+Developer;Building+Intelligent+Systems"/>
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=AI+Engineer;Full+Stack+Developer;FastAPI+Developer;Django+Developer;Android+Developer;Building+Intelligent+Systems"/>
 
 </div>
 
@@ -14,44 +18,40 @@
 
 </div>
 
+---
+
 # 👨‍💻 About Me
 
-```yaml
-Name: Arun Johny
+<img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/212284103-9d1f4b0d-ff98-42a8-91a6-c0c9d58f3a35.gif"/>
 
-Education:
-  B.Tech Computer Science (AI & ML)
-  CHRIST University
+### Hi there 👋
 
-Role:
-  - AI Engineer
-  - Full Stack Developer
-  - Android Developer
+🎓 B.Tech Computer Science (AI & ML)
 
-Current Stack:
-  - FastAPI
-  - Django
-  - React
-  - Convex
-  - Firebase
-  - PostgreSQL
+🏫 CHRIST University
 
-Currently Learning:
-  - Generative AI
-  - LLM Applications
-  - System Design
-  - Cloud Architecture
+🤖 AI Engineer
 
-Mission:
-  Building intelligent software solutions
-  that solve real-world problems.
-```
+🌐 Full Stack Developer
+
+📱 Android Developer
+
+🚀 Passionate about building AI-powered products that solve real-world problems.
+
+### Currently Learning
+
+* Generative AI
+* Agentic AI Systems
+* LLM Applications
+* System Design
+* Cloud Architecture
+* MLOps
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
-<p align="center">
+<div align="center">
 
 <a href="https://linkedin.com/in/arunjohny2412">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
@@ -65,47 +65,41 @@ Mission:
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-</p>
+</div>
 
 ---
 
-## ⚡ Tech Stack
+# ⚡ Tech Stack
+
+<div align="center">
 
 ### Languages
 
-<p align="center">
 <img src="https://skillicons.dev/icons?i=python,java,kotlin,c,javascript"/>
-</p>
 
 ### Frontend
 
-<p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react"/>
-</p>
 
 ### Backend
 
-<p align="center">
 <img src="https://skillicons.dev/icons?i=django,fastapi,nodejs"/>
-</p>
 
-### Database & Cloud
+### Databases
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=firebase,mongodb,sqlite,postgres,aws"/>
-</p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite,firebase"/>
 
-### Backend Services
+### Cloud & DevOps
 
-<p align="center">
-<img src="https://img.shields.io/badge/Convex-7C3AED?style=for-the-badge"/>
-</p>
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github"/>
+
+</div>
 
 ---
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212750337-0d2fd0f5-f2d6-4b89-b0bb-df7e3b6b9e7f.gif"/>
+<img width="700" src="https://user-images.githubusercontent.com/74038190/216655848-f4c0c5ef-7b75-4c16-8f6d-8e7df6b99b73.gif"/>
 
 </div>
 
@@ -113,84 +107,153 @@ Mission:
 
 # 🚀 Featured Projects
 
-### 🎤 InterviewIQ
+## 🎤 InterviewIQ
 
-AI-powered Interview Coach with:
+AI Interview Preparation Platform
 
-- Resume Parsing
-- Speech Analytics
-- AI Question Generation
-- Performance Dashboard
-- Confidence Scoring
+### Features
 
-**Tech:** FastAPI • Python • SpeechRecognition • Web Audio API
+* Resume Parsing
+* AI Question Generation
+* Speech Analytics
+* Confidence Scoring
+* Performance Dashboard
 
----
+### Tech Stack
 
-### 🏋️ Smart Gym Management System
-
-- Membership Management
-- E-Commerce Platform
-- Trainer Booking
-- Order Tracking
-- Admin Dashboard
-
-**Tech:** Django • PostgreSQL • Bootstrap
+FastAPI • Python • Gemini AI • Web Audio API
 
 ---
 
-### 💊 Medical Reminder Application
+## 🏋️ Smart Gym Management System
 
-- Firebase Authentication
-- Medication Tracking
-- Push Notifications
-- Health Record Management
+### Features
 
-**Tech:** Kotlin • Java • Firebase
+* Membership Management
+* E-Commerce Platform
+* Trainer Booking
+* Order Tracking
+* Admin Dashboard
+
+### Tech Stack
+
+Django • PostgreSQL • Bootstrap
 
 ---
 
-# 📊 GitHub Stats
+## 💊 Medical Reminder Application
 
-<p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Arun-Johny&show_icons=true&theme=tokyonight&hide_border=true"/>
+### Features
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arun-Johny&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+* Firebase Authentication
+* Medication Tracking
+* Push Notifications
+* Health Records
+
+### Tech Stack
+
+Kotlin • Java • Firebase
+
+---
+
+## 🧠 AgentShield AI
+
+AI Agent Security Testing Platform
+
+### Features
+
+* Prompt Injection Detection
+* Tool Abuse Simulation
+* Security Assessment
+* Risk Reports
+* AI Agent Hardening
+
+### Tech Stack
+
+Python • FastAPI • LLM Security
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Arun-Johny&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arun-Johny&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
 # 🔥 GitHub Streak
 
-<p align="center">
+<div align="center">
+
 <img src="https://streak-stats.demolab.com?user=Arun-Johny&theme=tokyonight&hide_border=true"/>
-</p>
+
+</div>
 
 ---
 
 # 📈 Contribution Graph
 
-<p align="center">
+<div align="center">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arun-Johny&theme=tokyo-night"/>
-</p>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Arun-Johny&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</div>
 
 ---
 
 # 🐍 Contribution Snake
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/Arun-Johny/Arun-Johny/output/github-contribution-grid-snake-dark.svg">
-</p>
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Arun-Johny/Arun-Johny/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
 
 ---
 
-# 🏆 Certifications
+# 📚 Certifications
 
-- AWS Academy Cloud Foundations
-- IBM Build Your Own Chatbot
-- Cisco Networking
-- Machine Learning – SkillUp
-- NPTEL Leadership & Team Effectiveness
+* AWS Academy Cloud Foundations
+* IBM Build Your Own Chatbot
+* Cisco Networking Essentials
+* Machine Learning – SkillUp
+* NPTEL Leadership & Team Effectiveness
+
+---
+
+# 💻 Coding Activity
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arun-Johny&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🚀 2026 Goals
+
+* Build Production AI Agents
+* Master System Design
+* Contribute to Open Source
+* Deploy Scalable AI Applications
+* Learn Kubernetes & MLOps
+* Crack Top AI Engineer Roles
 
 ---
 
@@ -198,10 +261,10 @@ AI-powered Interview Coach with:
 
 ### 💡 "Transforming Ideas Into Intelligent Solutions Through Code"
 
-<img src="https://komarev.com/ghpvc/?username=Arun-Johny&style=for-the-badge&color=blue"/>
+<img src="https://komarev.com/ghpvc/?username=Arun-Johny&style=for-the-badge&color=blueviolet"/>
 
 </div>
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:0F172A,50:2563EB,100:06B6D4"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=gradient"/>
